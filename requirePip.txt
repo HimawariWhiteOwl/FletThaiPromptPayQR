@@ -1,0 +1,3 @@
+pip install flet
+pip install pydantic
+pip install PIL
