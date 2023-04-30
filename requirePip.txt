@@ -1,3 +1,4 @@
 pip install flet
 pip install pydantic
 pip install PIL
+pip install qrcode
